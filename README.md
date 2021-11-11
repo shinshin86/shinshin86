@@ -14,6 +14,6 @@ I enjoy open source🍻
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=shinshin86&show_icons=true&count_private=true&line_height=40" alt="shinshin86's github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinshin86" alt="Top Langs" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinshin86&hide=css,html" alt="Top Langs" />
 </a>
 
