@@ -11,12 +11,14 @@
 - 📟 [oh-my-logo](https://github.com/shinshin86/oh-my-logo) (TypeScript) - Display giant ASCII-art logos with colorful gradients in your terminal — like Claude Code or Gemini CLI.
 - 💁‍♀️ [aituber-onair](https://github.com/shinshin86/aituber-onair) (TypeScript) - AITuber OnAir Toolkit
 - 🗣️ [aituber-onair-bushitsu](https://github.com/shinshin86/aituber-onair-bushitsu) (Go) - A real-time WebSocket chat server implementation in Go with room support, @mentions, and join/leave notifications, designed for AITuber streaming environments.
+- 🦊 [comfy-agent](https://github.com/shinshin86/comfy-agent) (TypeScript) - Comfy Agent is a tool to use ComfyUI from the CLI. It is suitable for both direct CLI usage and AI-agent-driven automation.
 - 👸 [neverchange](https://github.com/shinshin86/neverchange) (TypeScript) - NeverChange is a database solution for web applications using SQLite WASM and OPFS.
 - 👨‍💻 [sqlc-gen-typescript-for-neverchange](https://github.com/shinshin86/sqlc-gen-typescript-for-neverchange) (TypeScript) - This repository is a fork of the sqlc-gen-typescript plugin, extending its capabilities to support the neverchange SQLite Wasm driver. It generates TypeScript code from SQL queries and schemas, making it easier to interact with SQLite databases in Wasm environments.
 - 🏞️ [imgur-anonymous-uploader](https://github.com/shinshin86/imgur-anonymous-uploader) (JavaScript) - Imgur anonymous image uploder. This is Simple and Easy.
 - 🤡 [opfs-finder](https://github.com/shinshin86/opfs-finder) (TypeScript) - Browse and manage Origin Private File System (OPFS) with a Finder-like UI
 - 🌊 [vpeakserver](https://github.com/shinshin86/vpeakserver) (Go) - A lightweight server for vpeak, providing TTS capabilities via RESTful API.
 - 🎤 [vpeak](https://github.com/shinshin86/vpeak) (Go) - CLI tool to touch VOICEPEAK from the command line.
+- 💫 [gh-star-gif](https://github.com/shinshin86/gh-star-gif) (TypeScript) - Generate an animated GIF that highlights the Star button on any GitHub repository page.
 - 💬 [codex-history-list](https://github.com/shinshin86/codex-history-list) (TypeScript) - List Codex session histories from ~/.codex/sessions with cwd and first user ask.
 - 🗣️ [mcp-simple-aivisspeech](https://github.com/shinshin86/mcp-simple-aivisspeech) (JavaScript) - A Model Context Protocol (MCP) server for seamless integration with AivisSpeech text-to-speech engine. This project enables AI assistants and applications to convert text to natural-sounding Japanese speech with customizable voice parameters.
 - 🐝 [habanero-bee](https://github.com/shinshin86/habanero-bee) (TypeScript) - Habanero Bee is a simple AMP-compliant CMS system that makes it easy to create content using Google Sheets.
